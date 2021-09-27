@@ -1,0 +1,258 @@
+{
+  "yangiliklar": [
+    {
+      "id": 1,
+      "title": "Dasturchilik orqali million?",
+      "date": "12/06/2021",
+      "description": "Dasturchilik olamiga ilk kirib kelgan paytim 16 yosh bo’lganman va men juda ham yosh edim lekin bunga qaramay qattiq o'qidim",
+      "img": "./img/yangiliklarFirst.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Dasturchilik orqali million?",
+      "date": "12/06/2021",
+      "description": "Dasturchilik olamiga ilk kirib kelgan paytim 16 yosh bo’lganman va men....",
+      "img": "./img/yangiliklarSecond.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Dasturchilik orqali million?",
+      "date": "12/06/2021",
+      "description": "Dasturchilik olamiga ilk kirib kelgan paytim 16 yosh bo’lganman va men....",
+      "img": "./img/yangiliklarThird.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dasturchilik orqali million?",
+      "date": "12/06/2021",
+      "description": "Dasturchilik olamiga ilk kirib kelgan paytim 16 yosh bo’lganman va men juda ham yosh edim lekin bunga qaramay qattiq o'qidim",
+      "img": "./img/yangiliklarFirst.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Dasturchilik orqali million?",
+      "date": "12/06/2021",
+      "description": "Dasturchilik olamiga ilk kirib kelgan paytim 16 yosh bo’lganman va men....",
+      "img": "./img/yangiliklarSecond.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Dasturchilik orqali million?",
+      "date": "12/06/2021",
+      "description": "Dasturchilik olamiga ilk kirib kelgan paytim 16 yosh bo’lganman va men....",
+      "img": "./img/yangiliklarThird.jpg"
+    }
+  ],
+  "kurslar": [
+    {
+      "id": 1,
+      "title": "Matematika",
+      "authorPhoto": "./img/author-1.jpg",
+      "author": "Muminov Otabek",
+      "description": "0 dan boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz. boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz",
+      "price": "280.000 so'm",
+      "img": "./img/math.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Fizika",
+      "authorPhoto": "./img/author-2.jpg",
+      "author": "Rasulov Jasur",
+      "description": "0 dan boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz",
+      "price": "300.000 so'm",
+      "img": "./img/fizika.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mental arifmetika",
+      "authorPhoto": "./img/author-3.jpg",
+      "author": "Inoyatov Og'abek",
+      "description": "0 dan boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz",
+      "price": "199.000 so'm",
+      "img": "./img/mental.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Matematika",
+      "authorPhoto": "./img/author-1.jpg",
+      "author": "Muminov Otabek",
+      "description": "0 dan boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz. boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz",
+      "price": "280.000 so'm",
+      "img": "./img/math.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fizika",
+      "authorPhoto": "./img/author-2.jpg",
+      "author": "Rasulov Jasur",
+      "description": "0 dan boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz",
+      "price": "300.000 so'm",
+      "img": "./img/fizika.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Mental arifmetika",
+      "authorPhoto": "./img/author-3.jpg",
+      "author": "Inoyatov Og'abek",
+      "description": "0 dan boshlab eng mukammal misol va masalalargacha o‘rganib chiqamiz",
+      "price": "199.000 so'm",
+      "img": "./img/mental.jpg"
+    }
+  ],
+  "ustozlar": [
+    {
+      "id": 1,
+      "name": "Mo'minov Otabek",
+      "title": "Matematika fani o'qituvchisi",
+      "definition": "8 yillik tajribaga ega ustozimiz, 2013-yilda Magistraturani tamomlagan. Hozirda 50 dan ortiq shogirtlarga ega",
+      "img": "./img/author-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rasulov Jasurbek",
+      "title": "Fizika fani o‘qituvchisi",
+      "definition": "8 yillik tajribaga ega ustozimiz, 2013-yilda Magistraturani tamomlagan. Hozirda 50 dan ortiq shogirtlarga ega",
+      "img": "./img/author-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Inoyatov Og‘abek",
+      "title": "Mental arifmetika o‘qituvchisi",
+      "definition": "8 yillik tajribaga ega ustozimiz, 2013-yilda Magistraturani tamomlagan. Hozirda 50 dan ortiq shogirtlarga ega",
+      "img": "./img/author-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mo'minov Otabek",
+      "title": "Matematika fani o'qituvchisi",
+      "definition": "8 yillik tajribaga ega ustozimiz, 2013-yilda Magistraturani tamomlagan. Hozirda 50 dan ortiq shogirtlarga ega",
+      "img": "./img/author-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rasulov Jasurbek",
+      "title": "Fizika fani o‘qituvchisi",
+      "definition": "8 yillik tajribaga ega ustozimiz, 2013-yilda Magistraturani tamomlagan. Hozirda 50 dan ortiq shogirtlarga ega",
+      "img": "./img/author-2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Inoyatov Og‘abek",
+      "title": "Mental arifmetika o‘qituvchisi",
+      "definition": "8 yillik tajribaga ega ustozimiz, 2013-yilda Magistraturani tamomlagan. Hozirda 50 dan ortiq shogirtlarga ega",
+      "img": "./img/author-3.jpg"
+    }
+  ],
+  "izohlar": [
+    {
+      "id": 1,
+      "name": "Sabina Halilova",
+      "title": "Senior backend dasturchi",
+      "definition": "Nibh lectus quisque pellentesque lacus. Et lectus diam facilisis etiam sagittis. Arcu mauris s leo ut. Faucibus.",
+      "img": "./img/izoh-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Mirvohid Saidahmatov",
+      "title": "Amet tempus ut sit enim.",
+      "definition": "Facilisis a lectus augue sit. Placerat bibendum amet quis elementum,netus. Ut sit proin cras pharetra. Nunc proin et.",
+      "img": "./img/izoh-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Azam Muhammadyor",
+      "title": "Viverra vehicula at.",
+      "definition": "Cursus odio dapibus mauris nibh. Ultricies non in commodo ornare tellus diam. Nunc mi non ac morbi magnis tincidunt.",
+      "img": "./img/izoh-3.png"
+    },
+    {
+      "id": 4,
+      "name": "Sabina Halilova",
+      "title": "Senior backend dasturchi",
+      "definition": "Nibh lectus quisque pellentesque lacus. Et lectus diam facilisis etiam sagittis. Arcu mauris s leo ut. Faucibus.",
+      "img": "./img/izoh-1.png"
+    },
+    {
+      "id": 5,
+      "name": "Sabina Halilova",
+      "title": "Senior backend dasturchi",
+      "definition": "Nibh lectus quisque pellentesque lacus. Et lectus diam facilisis etiam sagittis. Arcu mauris s leo ut. Faucibus.",
+      "img": "./img/izoh-2.png"
+    },
+    {
+      "id": 6,
+      "name": "Mirvohid Saidahmatov",
+      "title": "Amet tempus ut sit enim.",
+      "definition": "Facilisis a lectus augue sit. Placerat bibendum amet quis elementum,netus. Ut sit proin cras pharetra. Nunc proin et.",
+      "img": "./img/izoh-3.png"
+    }
+  ],
+  "fotoreportaj": [
+    {
+      "id": 1,
+      "img": "./img/foto-1.jpg"
+    },
+    {
+      "id": 2,
+      "img": "./img/foto-2.jpg"
+    },
+    {
+      "id": 3,
+      "img": "./img/foto-3.jpg"
+    },
+    {
+      "id": 4,
+      "img": "./img/foto-4.jpg"
+    },
+    {
+      "id": 5,
+      "img": "./img/foto-5.jpg"
+    },
+    {
+      "id": 6,
+      "img": "./img/foto-6.jpg"
+    },
+    {
+      "id": 7,
+      "img": "./img/foto-5.jpg"
+    },
+    {
+      "id": 8,
+      "img": "./img/foto-4.jpg"
+    }
+  ],
+  "aloqa": [
+    {
+      "id": 1,
+      "fullName": "Urinboev Abdushukur",
+      "phoneNumber": "+99899-988-55-99"
+    },
+    {
+      "id": 2,
+      "fullName": "Abdurahimov Abdullajon",
+      "phoneNumber": "+99890-633-55-99"
+    },
+    {
+      "id": 3,
+      "fullName": "Abdurahimov Abdurahmon",
+      "phoneNumber": "+99899-988-55-99"
+    }
+  ],
+  "sotibOlish": [
+    {
+      "id": 1,
+      "fullName": "Urinboev Abdushukur",
+      "phoneNumber": "+99899-988-55-99"
+    },
+    {
+      "id": 2,
+      "fullName": "Abdurahimov Abdullajon",
+      "phoneNumber": "+99890-633-55-99"
+    },
+    {
+      "id": 3,
+      "fullName": "Abdurahimov Abdurahmon",
+      "phoneNumber": "+99899-988-55-99"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+.my-kurslar-container {    
+    margin-bottom: 60px !important;
+}
+.kurslar-row-news {
+    margin-bottom: 27px;    
+    align-items: center;
+    margin-top: 40px;
+}
+.kurslar-main-text {
+width: 233px;
+height: 53px;
+font-weight: bold;
+font-size: 44px;
+line-height: 53px;
+letter-spacing: 0.02em;
+color: #043353;
+}
+.barcha-kurslar {    
+width: 197px;
+height: 30px;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.02em;
+color: #113A6C !important;
+text-align: right;
+text-decoration: underline;
+}
+
+.kurs-card-style {    
+    border-radius: 10px 10px 0px 0px;    
+   border: 1px solid white;
+   margin-top: 30px;
+}
+.kurs-card-img{
+   border-radius: 10px 10px 0px 0px; 
+   width: 100%;
+   height: 250px;   
+}
+.kurs-body {
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    
+}
+
+.kurslar-title {
+height: 40px;
+font-style: normal;
+font-weight: bold;
+font-size: 33px;
+line-height: 23px;
+letter-spacing: 0.02em;
+color: #043353;
+margin-top: 0px;
+}
+.kurs-author {
+    margin-bottom: 10px;
+}
+.kurs-author span {
+width: 152px;
+height: 23px;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 23px;
+letter-spacing: 0.02em;
+color: #64696C;
+margin-left: 15px;
+}
+.kurs-author img {
+width: 36px;
+height: 36px;
+box-shadow: inset 0px 0px 2px rgba(0, 0, 0, 0.1);
+border-radius: 50%;
+}
+
+.kurs-text-define {
+width: 100%;
+height: 87px;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 23px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.kurslar-price {
+width: 162px;
+height: 30px;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.02em;
+color: #043353;
+}
+.kurs-btn {
+padding: 20px 45px;
+width: 282px;
+height: 47px;
+background: #E44546;
+box-shadow: 0px 5px 10px rgba(228, 69, 70, 0.3);
+border-radius: 15px;
+padding: 10px;
+}
+.kurs-btn a {
+width: 92px;
+height: 23px;
+font-style: normal;
+ font-weight: 500;
+font-size: 19px;
+line-height: 23px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+text-align: center;
+align-items: center;
+}
+.kurs-btn {
+    text-align: center;
+    margin-left: 13%;
+}

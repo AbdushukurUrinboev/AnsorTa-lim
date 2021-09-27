@@ -1,0 +1,49 @@
+.boglanish-container {
+    width: 100%;
+    height: 476px;
+    background-color: #FFFFFF;    
+}
+.boglanish-text-style h2 {
+    margin-left: 45%;
+}
+.boglanish-text-style h2 {
+width: 50%;
+margin-top: 50px;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 53px;
+letter-spacing: 0.02em;
+color: #043353;
+}
+.boglanish-text-style p {
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.adress-boglanish {
+    word-break: break-all;
+    width: 396px;    
+}
+.boglanish-location {
+    margin-top: 18px;
+}
+.boglanish-icons {
+    text-align: right;
+}
+.boglanish-receiver {
+    margin-top: 35px;
+}
+.boglanish-mail {
+    margin-top: 26px;
+}
+.boglanish-ijtim-tarmoq span {
+    margin: 15px;
+    margin-top: 0px;
+}
+.yandex-map-style {
+    
+}

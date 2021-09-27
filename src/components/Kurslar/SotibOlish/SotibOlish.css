@@ -1,0 +1,49 @@
+.sotib-olish-head-style {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #043353;
+}
+
+.sotib-olish-style input[type=text]{
+    width: 100%;    
+    border: 2px solid #64696C;
+    border: 0px solid;
+    border-bottom: 2px solid #64696C;
+}
+.sotib-olish-placeholder-style::placeholder{
+    font-style: italic;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #64696C;
+    opacity: 0.5;    
+}
+
+.sotib-olish-close-button{        
+    border-radius: 15px;
+    width: 152px;
+    height: 47px;  
+    color: #FFFFFF;  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+}
+
+.sotib-olish-button{
+    background: #E54647;
+    border-radius: 15px;
+    width: 152px;
+    height: 47px;  
+    color: #FFFFFF;  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+}
